@@ -6,7 +6,7 @@ import streamlit as st
 
 #model load
 model=joblib.load('churn_model_pipeline.pkl')
-features=joblib.load('model_feature.pkl')
+features=joblib.load('model_features.pkl')
 
 st.set_page_config(page_title='Customer Churn Predictor',layout='centered')
 
@@ -52,4 +52,5 @@ if st.button('Predict Churn'):
     st.subheader('Prediction Result')
     st.write(f'**Churn Probability :**{prob:.2f}')
     st.write(f"**Churn Risk:** {prediction}")
+
 
