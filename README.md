@@ -13,7 +13,7 @@ business teams take proactive retention actions.
 - Deployed model using Streamlit
 
 ## Model Performance
-- ROC-AUC: ~0.84
+- ROC-AUC: ~0.83
 - Churn Recall: ~80%
 - Final threshold selected based on business cost
 
