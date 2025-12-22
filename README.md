@@ -24,7 +24,7 @@ business teams take proactive retention actions.
 - GitHub
 
 ## Live App
-🔗 **Live Demo:** <PASTE YOUR STREAMLIT LINK HERE>
+🔗 **Live Demo:** https://churn-ml-app-app-alukipjyrkcypuc6vuekpv.streamlit.app/
 
 ## Author
 Nikhil Patidar
